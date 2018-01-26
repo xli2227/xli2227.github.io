@@ -708,6 +708,23 @@ Features Slider
 }
 
 /* ==========================================================================
+Project Intro
+========================================================================== */
+.project-intro {
+    padding: 60px 0 60px 0;
+    background-color: #f6f7f9;
+}
+.project-intro h1 {
+    margin-bottom: 20px;
+    color: #24374b;
+    font-weight: 400;
+    font-size: 22px;
+}
+.project-intro p {
+    margin-bottom: 25px;
+}
+
+/* ==========================================================================
 Features List
 ========================================================================== */
 .features-list {
@@ -931,7 +948,7 @@ Screenshots
 Download Now
 ========================================================================== */
 .download {
-    padding: 120px 0;
+    padding: 30px 0;
     background-color: #3f6184;
 }
 .download h1 {
