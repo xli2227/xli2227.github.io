@@ -767,6 +767,15 @@ Features List
     color: #4e9ba3
 }
 
+.feature-video {
+    margin-right: 10px;
+    color: #323a45;
+    vertical-align: middle;
+    font-size: 15px;
+    -webkit-transition: color 300ms ease-in-out;
+    transition: color 300ms ease-in-out;
+}
+
 /* ==========================================================================
 Blockquote
 ========================================================================== */
